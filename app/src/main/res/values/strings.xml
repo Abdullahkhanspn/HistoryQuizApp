@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HistoryQuizApp</string>
+    <string name="history_quiz">History Quiz</string>
+    <string name="open">OPEN</string>
+    <string name="welcome_to_history_quiz">Welcome To History Quiz</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
